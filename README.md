@@ -22,7 +22,7 @@ Hello. I am Samir. A pleasure to greet you. The force will be with you.
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/emanuelsamirmp
+[2]: https://www.linkedin.com/in/emanuelsamirmp/en
 
 
