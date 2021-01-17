@@ -15,7 +15,7 @@ Hello. I am Samir. A pleasure to greet you. The force will be with you.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSamir&layout=compact&hide=java,html&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" />
 </a>
 <a href="https://github.com/EmanuelSamir/EmanuelSamir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelSamir&show_icons=true&line_height=27&count_private=true&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelSamir&show_icons=true&hide=stars&layout=compact&line_height=27&count_private=true&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" alt="Samir's GitHub Stats" />
 </a>
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
