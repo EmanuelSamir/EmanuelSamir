@@ -1,16 +1,28 @@
-### Hi there 👋
+Hello. I am Samir. A pleasure to greet you. The force will be with you. 
+- 🔭 I’m currently working on a surgical robot implementation on a UR5.
+- 🌱 I’m currently learning more about decentralized apps and web dev.
+- :house_with_garden: Based at our lovely :peru:.
+- 👯 I’m looking to collaborate on AI and computer vision projects with real-world applications.
+- 🤔 I’m looking for help with :earth_americas:.
+- 💬 Talk to me about AI, life, or simple crazy innovative ideas.
+- 📫 Find me on [![Twitter][1.2]][1], on [![LinkedIn][3.2]][2], or on *emanuel.munoz [at] utec [dot] edu [dot] pe*.
 
-<!--
-**EmanuelSamir/EmanuelSamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=004263)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=004263)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=004263)
 
-Here are some ideas to get you started:
+<a href="https://github.com/EmanuelSamir/EmanuelSamir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSamir&hide=java,html&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" />
+</a>
+<a href="https://github.com/EmanuelSamir/EmanuelSamir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelSamir&show_icons=true&line_height=27&count_private=true&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" alt="Martin's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+
+
