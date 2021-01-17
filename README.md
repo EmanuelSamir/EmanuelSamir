@@ -12,7 +12,7 @@ Hello. I am Samir. A pleasure to greet you. The force will be with you.
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=004263)
 
 <a href="https://github.com/EmanuelSamir/EmanuelSamir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSamir&hide=java,html&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSamir&layout=compact&hide=java,html&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" />
 </a>
 <a href="https://github.com/EmanuelSamir/EmanuelSamir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelSamir&show_icons=true&line_height=27&count_private=true&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" alt="Martin's GitHub Stats" />
