@@ -3,7 +3,7 @@ Hello. I am Samir. A pleasure to greet you. The force will be with you.
 - 🌱 I’m currently learning more about decentralized apps and web dev.
 - :house_with_garden: Based at our lovely :peru:.
 - 👯 I’m looking for collaborating on AI and computer vision projects with real-world applications.
-- 🤔 I’m looking for help to :earth_americas:.
+- 🤔 I’m looking for helping to :earth_americas:.
 - 💬 Talk to me about AI, life, or simple crazy innovative ideas.
 - 📫 Find me on [![Twitter][1.2]][1], on [![LinkedIn][3.2]][2], or on *emanuel.munoz [at] utec [dot] edu [dot] pe*.
 
