@@ -1,6 +1,6 @@
 Hello. I am Samir. A pleasure to greet you. The force will be with you. 
-- 🔭 I’m currently working on a surgical robot implementation on a UR5.
-- 🌱 I’m currently learning more about decentralized apps and web dev.
+- 🔭 I’m currently working on exploration robotics based on reinforcement learning and safe reinforcement learning at CMU.
+- 🌱 I’m currently learning more about Deep Learning, decentralized apps and web dev.
 - :house_with_garden: Based at our lovely :peru:.
 - 👯 I’m looking for collaborating on AI and computer vision projects with real-world applications.
 - 🤔 I’m looking for helping to :earth_americas:.
